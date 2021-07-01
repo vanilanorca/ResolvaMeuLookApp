@@ -1,0 +1,13 @@
+
+export const AQUARIO_HEADER = require('./imgs/Aquário-header.jpg')
+export const ARIES_HEADER = require('./imgs/Áries-header.jpg')
+export const CANCER_HEADER = require('./imgs/Câncer-header.jpg')
+export const CAPRICORNIO_HEADER = require('./imgs/Capricórnio-header.jpg')
+export const ESCORPIAO_HEADER = require('./imgs/Escorpião-header.jpg')
+export const GEMEOS_HEADER = require('./imgs/Gêmeos-header.jpg')
+export const LEAO_HEADER = require('./imgs/Leão-header.jpg')
+export const LIBRA_HEADER = require('./imgs/Libra-header.jpg')
+export const PEIXES_HEADER = require('./imgs/Peixes-header.jpg')
+export const SAGITARIO_HEADER = require('./imgs/Sagitário-header.jpg')
+export const TOURO_HEADER = require('./imgs/Touro-header.jpg')
+export const VIRGEM_HEADER = require('./imgs/Virgem-header.jpg')
